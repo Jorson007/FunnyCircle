@@ -78,7 +78,7 @@ FunnyCircle是一款基于环信 IM 打造的类 Discord 实时社区，支持�
 
 1、克隆项目  
 ```bash
-git clone https://github.com/easemob/Circle-Demo-Web.git
+git clone git@github.com:Jorson007/FunnyCircle.git
 ```
 
 2、安装依赖
